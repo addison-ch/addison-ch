@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🦁 I'm a first-year computer science student interested in web development, game design, and natural language processing
+- 🌱 I’m currently learning more about TypeScript, Elixir, and React
+- 🗿 I enjoy swimming, bouldering, and playing League of Legends
+
 
 <!--
 **addison-ch/addison-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
