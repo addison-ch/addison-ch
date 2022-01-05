@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🦁 I'm a first-year computer science student interested in web development, game design, and natural language processing
+- 🦁 I'm a first-year computer science student interested in web development and natural language processing
 - 🌱 I’m currently learning more about TypeScript, Elixir, and React
 - 🗿 I enjoy swimming, bouldering, and playing League of Legends
 
