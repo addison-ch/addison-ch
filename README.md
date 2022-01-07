@@ -4,7 +4,7 @@
 - 🗿 I enjoy swimming, bouldering, and playing League of Legends
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addison-ch)]
+[![Addison's github stats](https://github-readme-stats.vercel.app/api?username=addison-ch)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **addison-ch/addison-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
