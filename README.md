@@ -4,8 +4,9 @@
 - 🗿 I enjoy swimming, bouldering, and playing League of Legends
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addison-ch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <!--
