@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🦁 I'm a first-year computer science student interested in web development and natural language processing
 - 🌱 I’m currently learning more about TypeScript, Elixir, and React
-- 🗿 I enjoy swimming, bouldering, and rewatching episodes of The Expanse
+- 🗿 I enjoy swimming, basketball, and Tetris in my free time
 
 
 <!--
