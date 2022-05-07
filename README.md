@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🦁 I'm a first-year computer science student interested in web development and natural language processing
-- 🌱 I’m currently learning more about TypeScript, Elixir, and React
+- 🦁 I'm a second yeaer computer science student interested in web development and natural language processing
+- 🌱 I’m currently learning more about TypeScript, Flutter/Dart, and Embedded C
 - 🗿 I enjoy swimming, playing basketball, and practicing my 40L Tetris sprint in my free time
 
 
