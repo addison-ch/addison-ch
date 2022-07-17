@@ -5,8 +5,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addison-ch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
+[![Top La
+ngs](https://github-readme-stats.vercel.app/api/top-langs/?username=addison-ch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <!--
