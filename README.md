@@ -1,12 +1,12 @@
 ### Hi there 👋
 - 🦁 I'm a second year computer science student interested in web development, natural language processing, and firmware!
-- 🌱 I’m currently learning more about TypeScript, Flutter/Dart, and Embedded C
+- 🌱 I’m currently learning more about TypeScript, FastAPI, and Embedded C
 - 🗿 I enjoy swimming, playing basketball, and practicing my 40L Tetris sprint in my free time
 
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addison-ch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 <!--
