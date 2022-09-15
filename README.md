@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🦁 I'm a second year computer science student interested in web development, natural language processing, and firmware!
-- 🌱 I’m currently learning more about TypeScript, FastAPI, and Embedded C
+- 🦁 I'm a second year computer science student interested in software development, dev ops, and firmware!
+- 🌱 I’m currently learning more about embedded C, Docker, and AWS!
 - 🗿 I enjoy swimming, watching basketball, and practicing my 40L Tetris sprint in my free time
 
 
