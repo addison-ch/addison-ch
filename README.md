@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🦁 I'm a second year computer science student interested in software development, dev ops, and firmware!
+- 🦁 I'm a second year computer science student interested in full-stack development, devops, and firmware!
 - 🌱 I’m currently learning more about embedded C, Docker, and AWS!
 - 🗿 I enjoy swimming, watching basketball, and practicing my 40L Tetris sprint in my free time
 
