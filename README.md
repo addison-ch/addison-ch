@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🦁 I'm a second year computer science student interested in software engineering, automation, and electric vehicles
-- 🌱 I’m currently learning more about embedded C, Elixir, and Docker
+- 🦁 I'm a computer science student interested in software engineering, machine learning, and embedded systems!
+- 🌱 I’m currently learning more about embedded C/C++, PyTorch, and Docker
 - 🗿 I enjoy swimming, reading fantasy novels, and practicing my 40L Tetris sprint in my free time
 
 
