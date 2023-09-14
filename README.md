@@ -2,7 +2,7 @@ Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-
 
 I like to write code to solve technical problems, build impactful products, while also soaking in inspiration anywhere I can! 👨‍💻👾
 
-I'm currently interested in exploring the intersection of software engineering, embedded systems, and artificial intelligence! 🧠🤖
+I'm currently interested in learning more about real-time operating systems, neural networks, and the Elixir programming language! 🧠🤖
 
 <details>
 <summary>misc. info...</summary>
