@@ -13,9 +13,6 @@
 <a href="mailto:a344cheng@uwaterloo.ca">
   <img align="left" alt="Addison's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
 </a>
-<a href="https://x.com/radditouille">
-  <img align="left" alt="Eugene's Email" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
 
 
 <!---
