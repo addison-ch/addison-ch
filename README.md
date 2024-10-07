@@ -4,7 +4,7 @@
 I'm a computer science major at the University of Waterloo, currently in my fourth year. I've taken (and really enjoyed) courses including Operating Systems, Software Security, and Computer Networks. Currently, I've completed 4 software engineering internships, and am seeking my fifth one for Summer 2025. 
 - 🍏 Most recently I interned at **Apple** working on AirPlay.
 - 🎲 Before that, I interned at Zynga working on serverless software using Python and AWS (Lambda/Aurora/S3).
-- 🧑‍💻 I've also done internships working with neural networks at Untether AI and full-stack development at the WSIB Innovation Lab!
+- 🧑‍💻 I've also done work with neural networks at Untether AI and full-stack development at the WSIB Innovation Lab!
 - 🔨 I consider myself a generalist engineer -- I try to really understand how computers and systems work on a deeper level (as opposed to learning specific frameworks/libraries).
 - 🌱 I'm constantly learning new things and building cool projects. Currently I'm learning more about Golang and GraphQL!
 
