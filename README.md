@@ -3,7 +3,7 @@
 ##### A bit about myself...
 I'm a CS major at the University of Waterloo, currently in my fourth year. I've taken (and really enjoyed) courses including Operating Systems, Software Security, and Computer Networks. I am striving to be a generalist engineer that really understand how computers and systems work.
 
-I am currently an intern at Datadog 🐾, but I've also completed internships at **Apple** 🍎, Zynga 🐕, Untether AI 🤖, and the WSIB Innovation Lab. 
+I am currently looking for my last two coops for Summer/Fall 2025, but I've also completed internships at **Apple** 🍎, Zynga 🐕, Untether AI 🤖, and the WSIB Innovation Lab. 
 
 
 ##### Don't hesitate to reach out :)
