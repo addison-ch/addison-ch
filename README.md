@@ -1,15 +1,14 @@
 #### Hey there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 ##### A bit about myself...
-I'm a CS major at the University of Waterloo, currently in my fourth year. I've taken (and really enjoyed) courses including Operating Systems, Software Security, and Computer Networks. I am striving to be a generalist engineer that really understand how computers and systems work.
+I'm a final year CS major at UWaterloo. I've taken (and really enjoyed) courses including Operating Systems, Software Security, and Computer Networks. I'm interested in solving challenging problems and mastering the craft of software engineering. Currently, I am leveling up my Golang skills and tinkering with embedded systems on the side. 
 
-I am currently looking for my last two coops for Summer/Fall 2025, but I've also completed internships at **Apple** 🍎, Zynga 🐕, Untether AI 🤖, and the WSIB Innovation Lab. 
+I've worked internships in the past at **Datadog** 🐶, **Apple** 🍎, Zynga 🐕, Untether AI 🤖, and the WSIB Innovation Lab. 
 
 
 ##### Don't hesitate to reach out :)
 <a href="https://www.linkedin.com/in/addisonnn/">
-  linkedin
-</a>
+  linkedin</a>
  | 
 <a href="mailto:a344chen@uwaterloo.ca">
   email
