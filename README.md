@@ -3,7 +3,7 @@
 ##### A bit about myself...
 I'm a final year CS major at UWaterloo. I've taken (and really enjoyed) courses including Operating Systems, Software Security, and Computer Networks. I'm interested in solving challenging problems and mastering the craft of software engineering. Currently, I am leveling up my Golang skills and tinkering with embedded systems on the side. 
 
-I've worked internships in the past at Datadog, Apple, and Zynga.
+I've done software dev internships in the past at Datadog, Apple, and Zynga.
 
 
 ##### Don't hesitate to reach out :)
