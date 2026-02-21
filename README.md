@@ -1,9 +1,9 @@
 #### Hey there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 ##### A bit about myself...
-I'm a final year CS major at UWaterloo. I've taken (and really enjoyed) courses including Operating Systems, Software Security, and Computer Networks. I'm interested in solving challenging problems and mastering the craft of software engineering. Currently, I am leveling up my Golang skills and tinkering with embedded systems on the side. 
+I'm a software engineer born and raised in Toronto, Canada. I studied Computer Science at the University of Waterloo where I've taken (and really enjoyed) courses including Operating Systems, Software Security, and Computer Networks. During my studies, I also got the chance to intern at Apple 🍏, Tesla 🏎️, and Datadog 🐾. I'm interested in solving complex engineering problems and building products people love. I consider myself a generalist engineer with development experience ranging from writing systems software for vehicles to high-throughput backend services.
 
-I've done software dev internships in the past at Datadog, Apple, and Zynga.
+I
 
 
 ##### Don't hesitate to reach out :)
