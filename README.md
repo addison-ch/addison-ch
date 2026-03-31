@@ -1,7 +1,7 @@
 #### Hey there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 ##### A bit about myself...
-Hi, I’m a software engineer from Toronto, Canada. I studied Computer Science at the University of Waterloo, where I especially enjoyed courses like Operating Systems, Software Security, and Computer Networks. Along the way, I had the opportunity to intern at Apple 🍏, Tesla 🏎️, and Datadog 🐾.
+I’m a software engineer from Toronto, Canada. I studied Computer Science at the University of Waterloo, where I especially enjoyed courses like Operating Systems, Software Security, and Computer Networks. Along the way, I had the opportunity to intern at Apple 🍏, Tesla 🏎️, and Datadog 🐾.
 
 I enjoy working on challenging engineering problems and building products that are useful and well-crafted. My experience has been fairly broad, from systems software in vehicles to high-throughput backend services, and I’m always excited to keep learning.
 
