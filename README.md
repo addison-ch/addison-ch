@@ -3,7 +3,7 @@
 ##### A bit about myself...
 I’m a software engineer from Toronto, Canada. I studied Computer Science at the University of Waterloo, where I especially enjoyed courses like Operating Systems, Software Security, and Computer Networks. Along the way, I had the opportunity to intern at Apple 🍏, Tesla 🏎️, and Datadog 🐾.
 
-I enjoy working on challenging engineering problems and building products that are useful and well-crafted. My experience has been fairly broad, from systems software in vehicles to high-throughput backend services, and I’m always excited to keep learning.
+I enjoy working on challenging engineering problems and building products that are useful and well-crafted. My experience has been fairly broad, from systems software in vehicles to high-throughput backend services, and I’m always excited to keep learning. In my free time, you can find me tinkering with embedded systems, playing volleyball, or practicing my 40L sprint in Tetris.
 
 ##### Don't hesitate to reach out :)
 <a href="https://www.linkedin.com/in/addisonnn/">
