@@ -4,7 +4,7 @@ I'm a newly graduated software engineer based in NYC. Originally from Canada, I 
 
 I enjoy working on challenging engineering problems and building well-crafted products. My experience has been fairly broad, from systems software in vehicles to high-throughput backend services, and I’m always excited to keep learning. 
 
-In my free time, you can find me tinkering with embedded systems, playing volleyball, or practicing my 40L sprint in Tetris.
+In my free time, you can find me getting lost in an open-world video game, playing volleyball, or practicing my 40L sprint in Tetris.
 
 ##### Don't hesitate to reach out :)
 <a href="https://www.linkedin.com/in/addisonnn/">
