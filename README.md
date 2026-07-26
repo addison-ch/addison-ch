@@ -2,7 +2,7 @@
 
 I'm a newly graduated software engineer based in NYC. Originally from Canada, I studied Computer Science at the University of Waterloo. During my undergrad, I had the chance to intern at Apple 🍏, Tesla 🏎️, and Datadog 🐾. 
 
-I enjoy working on challenging engineering problems and building well-crafted products. My experience has been fairly broad, from systems software in vehicles to high-throughput backend services, and I’m always excited to keep learning. 
+I enjoy working on challenging engineering problems and building well-crafted products. My experience has been fairly broad, from systems software in electric vehicles to high-throughput backend services, and I’m always excited to keep learning. 
 
 In my free time, you can find me getting lost in an open-world video game, hitting volleyballs, or practicing my 40L sprint in Tetris.
 
