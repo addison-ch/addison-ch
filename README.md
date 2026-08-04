@@ -2,7 +2,7 @@
 
 I'm a software engineer currently working on AI infra for evals. 
 
-Originally from Canada, I studied Computer Science at the University of Waterloo. During my undergrad, I had the chance to learn from awesome mentors during my internships at Apple, Tesla, and Datadog.
+Originally from Canada, I studied Computer Science at the University of Waterloo. During my undergrad, I had the chance to learn from awesome mentors through my internships at Apple, Tesla, and Datadog.
 
 I enjoy working on challenging engineering problems and building well-crafted products. I consider myself a generalist engineer -- my experience has been broad, from systems software deployed on millions of electric vehicles to scalable high-throughput backend services.
 
